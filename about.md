@@ -11,4 +11,4 @@ Currently a website under progress.
 
 ### Contact me
 
-[email@domain.com](mailto:mathematix.niser.ac.in)
+[mathematix.niser.ac.in](mailto:mathematix.niser.ac.in)
